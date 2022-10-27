@@ -1,0 +1,30 @@
+[
+    {
+        "categoryId": 1,
+        "name": "Learn Web-Development"
+    },
+    {
+        "categoryId": 2,
+        "name": "Learn Graphics Design"
+    },
+    {
+        "categoryId": 3,
+        "name": "Learn Mechin Learning"
+    },
+    {
+        "categoryId": 4,
+        "name": "Learn AI"
+    },
+    {
+        "categoryId": 5,
+        "name": "Learn Digital Marketing"
+    },
+    {
+        "categoryId": 6,
+        "name": "Learn SEO"
+    },
+    {
+        "categoryId": 36,
+        "name": "All Courses"
+    }
+]
